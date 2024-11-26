@@ -16,5 +16,5 @@ JVM Dependencies
 ### Steps to clone and execute the tests
 ```
 git clone https://github.com/dhanya2411/POMWithCucumberBDDFramework.git
-cd CucumberSeleniumFramework
+cd POMWithCucumberBDDFramework
 mvn clean test
